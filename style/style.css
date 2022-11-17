@@ -17,9 +17,7 @@ h1{
     background-color: #a4cbdf;
 }
 header nav ul {
-    list-style: none;
-    /* display: flex;
-    gap: 4rem; */
+    display: none;
 }
 main img{
     display: inline;
@@ -29,7 +27,7 @@ main img{
 .boton1{
     background-color: #51B0DF;
     color: whitesmoke;
-    padding: 0.4rem;
+    padding: 0.1rem;
     box-shadow: 1px 1px 5px black;
     text-shadow: 1px 1px 5px black;
     
